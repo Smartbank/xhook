@@ -1,0 +1,23 @@
+{
+  "name": "xhook",
+  "version": "1.0.0",
+  "description": "Easily intercept and modify XHR request and response",
+  "main": "dist/1/xhook.js",
+  "directories": {
+    "example": "example",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smartbank/xhook.git"
+  },
+  "author": "Ken Børge Viktil <kenborge@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Smartbank/xhook/issues"
+  },
+  "homepage": "https://github.com/Smartbank/xhook#readme"
+}
